@@ -21,3 +21,7 @@ ZK Compression is introduced on Solana and Ethereum Virtual Machine (EVM) networ
 clone repo
 
 cd Zk-compression    
+
+ - npm install typescript
+ - npx tsc --init
+ - npx ts-node airdrop.ts
