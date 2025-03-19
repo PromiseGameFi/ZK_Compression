@@ -24,4 +24,4 @@ cd Zk-compression
 
  - npm install typescript
  - npx tsc --init
- - npx ts-node airdrop.ts
+ - npx ts-node src/airdrop.ts
