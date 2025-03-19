@@ -20,4 +20,4 @@ ZK Compression is introduced on Solana and Ethereum Virtual Machine (EVM) networ
 
 clone repo
 
-cd Zk-compression
+cd Zk-compression    
