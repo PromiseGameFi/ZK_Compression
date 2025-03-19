@@ -1,5 +1,7 @@
 # README
 
+Updates on this will be on the new Branch
+
 ## Overview
 ZK Compression is introduced on Solana and Ethereum Virtual Machine (EVM) networks, designed to enable scalable application development. By leveraging zero-knowledge proofs and state compression, this technology drastically reduces on-chain storage costs while maintaining network security, performance, and composability.
 
